@@ -1,0 +1,2 @@
+flask>=2.0.0
+tuya-connector-python>=0.1.0
